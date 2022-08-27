@@ -1,0 +1,30 @@
+.box{
+    width: 500px;
+    height: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+#section-1{
+    font-size: 30px;
+    color:yellow;
+    background-color: purple;
+}
+.section-green{
+    line-height: 100px;
+    color: orange;
+    background-color: blue;
+}
+
+.container{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+background-color: black;
+
+
+}
+#yellow{
+    font-size: 20px;
+color: yellow;
+
+}
